@@ -1,11 +1,12 @@
 # Rainfall Prediction Classifier
 
-This project contains a Jupyter/Colab notebook for building a rainfall prediction classifier using the Australian weather dataset.
+A machine learning classifier for predicting rainfall using weather data with preprocessing, feature engineering, model training, and performance evaluation.
 
 ## Contents
 
 - `Building_a_Rainfall_Prediction_Classifier.ipynb` - notebook with data loading, preprocessing, feature engineering, model training, and evaluation.
 - `requirements.txt` - Python packages needed to run the notebook locally.
+- `LICENSE` - MIT license for the project.
 
 ## Setup
 
